@@ -8,4 +8,3 @@ function pessoa() {
     }, 1000)
 }
 new pessoa
-encodeURI
