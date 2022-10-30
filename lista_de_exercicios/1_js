@@ -15,7 +15,7 @@ function resultado3(a, b) {
 function resultado4(a, b) {
     return (a /= b)
 }
-console.log(resultado1(a, b))
-console.log(resultado2(a, b))
-console.log(resultado3(a, b))
-console.log(resultado4(a, b))
+console.log('1: ', resultado1 (a, b))
+console.log('2: ', resultado2 (a, b))
+console.log('3: ', resultado3(a, b))
+console.log('4: ', resultado4(a, b))
