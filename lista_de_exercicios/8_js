@@ -20,3 +20,4 @@ function placar(stringPontuacoes) {
     return [quebraRecorde, piorJogo]
 }
 console.log(placar(stringPontuacoes))
+
