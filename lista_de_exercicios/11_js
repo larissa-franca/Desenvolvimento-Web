@@ -15,4 +15,4 @@ function ano(a) {
 console.log(ano(4))
 console.log(ano(400))
 console.log(ano(2024))
-console.log(ano(2018))
+console.log(ano(2016))
