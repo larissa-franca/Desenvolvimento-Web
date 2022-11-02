@@ -8,7 +8,7 @@ function placar(stringPontuacoes) {
     let maiorPontuacao = pontuacao[0]
     let menorPontuacao = pontuacao[0]
  
-    for (let i = 1; i < pontuacao.lenght; i++) {
+    for (let i = 1; i < pontuacao.length; i++) {
         if(pontuacao[i] > maiorPontuacao) {
             maiorPontuacao = pontuacao[i]
             quebraRecorde++
