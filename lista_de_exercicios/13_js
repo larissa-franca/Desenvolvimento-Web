@@ -1,6 +1,6 @@
 //dia da semana é util ou não
 
-dia = 1
+dia = 5
 switch (dia) {
     case 1:
         dia = "Domingo"
