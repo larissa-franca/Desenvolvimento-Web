@@ -34,3 +34,4 @@ function calcularTempo(alturaMenor, taxaAlturaMenor, alturaMaior, taxaAlturaMaio
 }
 console.log(crianca(110, 2, 120, 5))
 console.log(crianca(150, 2, 130, 4));
+console.log(crianca(115, 2, 1222, 4))
