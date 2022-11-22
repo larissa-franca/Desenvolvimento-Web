@@ -1,0 +1,4 @@
+function dinheiro(a){
+    console.log(`R$ ${(a.toFixed(2)).toString().replace('.', ',')}`)
+}
+dinheiro(0.300000000004)
