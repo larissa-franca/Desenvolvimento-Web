@@ -10,5 +10,5 @@ function resolverBascara(ax2, bx, c) {
     resultado.push(x2)
     return resultado
 }
-console.log(resolverBascara(1, 2, 1))
-console.log(resolverBascara(4, 3, 6))
+console.log(resolverBascara(1, 2, 3))
+console.log(resolverBascara(4, 5, 6))
