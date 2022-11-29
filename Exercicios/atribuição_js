@@ -2,7 +2,7 @@ const a = 7 //o simbolo = é uma atribuição
 let b = 3
 
 b += a //atribuição aditiva, esta acrscentando o valor de a para b
-console.log(a)
+console.log(b)
 
 b -= 4 //atribuição subtrativa, esta tirando o valor de a em b
 console.log(b)
