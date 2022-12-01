@@ -19,7 +19,7 @@ const imprimirResultado = function (nota) {
             console.log('Reprevado')
             break 
         default:
-            console.log('Nota invalida') 
+            console.log('Nota inválida') 
 
     }
 }
