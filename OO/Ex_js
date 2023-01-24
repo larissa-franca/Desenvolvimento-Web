@@ -1,0 +1,17 @@
+//codigo não executável
+
+//procedural  processamento anipulando os dados
+processamento(valor1, valor2, valor3)
+
+//OO objeto que tem atributos, valores e funções manipulando os dados. 
+//o objeto é como uma cápslo que agrupa os comportamentos e atriutos
+
+objeto = {
+    valor1,
+    valor2, 
+    valor3,
+    processamento() {
+        //...
+    }
+}
+objeto.processamento()
