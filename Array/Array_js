@@ -1,0 +1,3 @@
+//array é um objeto, organiza os dados organizando do 0
+
+console.log(typeof Array, typeof new Array, typeof [])
