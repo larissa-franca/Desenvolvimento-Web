@@ -1,0 +1,14 @@
+function mes(num) {
+    if (num = 1)
+    return 'Janeiro',
+    } else if (num = 2) {
+        return 'Fevereiro',
+    } else if (num = 3) {
+        return 'Março',
+    } else if (num = 4) {
+        return 'Abril',
+    } else if (num = 5) {
+        return 'Maio',
+    }
+
+console.log(1)
