@@ -9,4 +9,4 @@ let categoria = 'papelaria';
 console.log('produto: ' + nome 
     + ', categoria: ' + categoria
     + ', preco: ' + preco
-    + ', desconto: ' + desconto);
+    + ', desconto: ' + descontoo);
