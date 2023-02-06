@@ -3,7 +3,7 @@
 const obj1 = {}
 console.log(obj1)
 
-//object em js
+//object em java script
 console.log(typeof Object, typeof new Object)
 const obj2 = new Object
 console.log(obj2)
