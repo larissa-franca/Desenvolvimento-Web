@@ -24,7 +24,7 @@ sumario() {
 }}
 
 const salario = new Lancamento('salario', 45000)
-const contaDeLuz = new Lancamento('Luz', -220)
+const contaDeLuz = new Lancamento('Luzzzz', -220)
 
 const contas = new CicloFinanceiro(6, 2018)
 
