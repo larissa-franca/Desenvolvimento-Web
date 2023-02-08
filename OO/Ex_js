@@ -16,7 +16,7 @@ objeto = {
 }
 objeto.processamento()
 
-//principios
+//principios:
 
 //1. abstração
 //2. encapsulamento
