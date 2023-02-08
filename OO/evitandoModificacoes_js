@@ -11,7 +11,7 @@ console.log(produto)
 
 //Object.seal - não consegue nem adicionar e nem excluir atributos
 
-const pessoa = { nome: 'Juliana', idade: 35}
+const pessoa = { nome: 'Julianah', idade: 35}
 Object.seal(pessoa)
 console.log('Selado:', Object.isSealed(pessoa))
 
