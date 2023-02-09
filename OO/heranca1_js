@@ -4,7 +4,7 @@ const ferrari = {
 }
 
 const volvo = {
-    modelo: 'V401',
+    modelo: 'V40',
     velMax: 200
 }
 
