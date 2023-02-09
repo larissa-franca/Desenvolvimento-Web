@@ -22,5 +22,5 @@ objeto.processamento()
 //2. encapsulamento
 //3. herança (prototype) - composição de objetos mais complexos por meio de objetos mais simples;
 //recebimento de caracteristicas vindas de um "pai"
-// exemplo: ser humano é um manifero, mamifero é um animal
+// exemplo: Ser humano é um manifero, mamifero é um animal
 //4. polimorfismo
