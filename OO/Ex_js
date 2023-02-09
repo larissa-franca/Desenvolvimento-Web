@@ -1,6 +1,6 @@
 //codigo não executável
 
-//procedural  processamento anipulando os dados
+//procedural  processamento manipulando os dados
 processamento(valor1, valor2, valor3)
 
 //OO objeto que tem atributos, valores e funções manipulando os dados. 
