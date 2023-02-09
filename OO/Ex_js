@@ -4,7 +4,7 @@
 processamento(valor1, valor2, valor3)
 
 //OO objeto que tem atributos, valores e funções manipulando os dados. 
-//o objeto é como uma cápslo que agrupa os comportamentos e atriutos
+//o objeto é como uma cápsula que agrupa os comportamentos e atriutos
 
 objeto = {
     valor1,
