@@ -11,7 +11,7 @@ function vendaDeCarro (modelo) {
             break
         
         default:
-            console.log('Não trabalhamos com este tipo de automóvel aqui')
+            console.log('Não trabalhamos com este tipo de automóvel aqui!')
     }
 
 }
