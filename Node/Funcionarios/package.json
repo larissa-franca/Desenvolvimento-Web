@@ -1,0 +1,14 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "keywords": [
+    "teste"
+  ],
+  "author": "Larissa",
+  "license": "ISC"
+}
