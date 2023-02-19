@@ -5,7 +5,6 @@
   "main": "funcionarios.js",
   "scripts": {
     "start": "nodemon",
-    "dev": "nodemon",
     "test": "teste"
   },
   "keywords": [
