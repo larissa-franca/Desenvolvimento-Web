@@ -12,4 +12,5 @@ function logThis() {
 }
 logThis()
 
-//dentro de uma função o this aponta para global
+//dentro de uma função o this aponta para global. Porém, quando falamos de arrow funcions, a coisa muda um pouco.
+//Isso porque dentro de uma arrow function, o this não vai apontar mais para o objeto global, e sim para o module.export / exports.
