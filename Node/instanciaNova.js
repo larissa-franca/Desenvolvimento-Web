@@ -1,5 +1,5 @@
 //Uma factory retorna um novo objeto
-module.expots = () => {
+module.exports = () => {
     return {
         valor: 1,
         inc() {
