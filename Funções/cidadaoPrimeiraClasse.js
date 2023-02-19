@@ -1,7 +1,7 @@
 // Função em JS é First-Class Object (Citizens)
 // Higher-order function
 
-// criar de forma literal
+// Criar de forma literal
 function fun1() { }
 
 // Armazenar em uma variável
