@@ -1,5 +1,5 @@
 const notas = [7.7, 6.5, 5.2, 8.9, 3.6, 7.1, 9.0] //isso é um array
-//sem usar cllback
+//sem usar callback
 
 let notasBaixas = []
 for (let i in notas) {
