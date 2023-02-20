@@ -3,5 +3,5 @@ global.MinhaApp = Object.freeze ({
     saudacao() {
         return 'Hello world!'
     },
-    nome: 'Sistema Legal'
+    nome: 'Sistema Legal!'
 })
