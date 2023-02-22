@@ -27,3 +27,4 @@ const exec = (ctx, ...middleware) => {
 }
 const ctx = {}
 exec(ctx, passo1, passo2, passo3)
+console.log(ctx)
