@@ -6,5 +6,5 @@ app.get('/produtos', (req, res, next) => {
     res.send({ nome: 'notebook', preco: 123.45 }) //converte para JSON
 })
 app.listen(porta, () => {
-    console.log(`Servidor executando está na porta ${porta}.`)
+    console.log(`Servidor executando está na porta: ${porta}.`)
 })
