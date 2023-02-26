@@ -16,6 +16,6 @@ const config = require('./arquivo.json')
 console.log(config.db)
 
 fs.readdir(__dirname, (err, arquivos) => {
-    console.log('Conteudo da pasta...')
+    console.log('Conteudo da pasta ...')
     console.log(arquivos)
 })
