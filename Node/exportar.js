@@ -9,6 +9,6 @@ exports = null
 console.log(module.exports)
 
 //Continua apontando para o 1, 2, 3 por que exports é uma variável que aonta para outro objeto,
-//então tanto faz como aponta, no final quem será apontado é o que consta dentro de "module.exports"
+//então tanto faz como aponta, no final quem será apontado é o que consta dentro de "module.exports".
 
 
