@@ -1,4 +1,4 @@
-const notas = [7.7, 6.5, 5.2, 8.9, 3.6, 7.1, 9.0] //isso é um array
+const notas = [7.7, 6.5, 5.2, 8.9, 3.6, 7.1, 9.0] //Isso é um array
 //Sem usar callback
 
 let notasBaixas = []
