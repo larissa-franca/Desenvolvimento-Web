@@ -9,7 +9,7 @@ for (let i in notas) {
 }
 console.log(notasBaixas)
 
-//Com callback
+//Com callback...
 const notasBaixas2 = notas.filter(function (nota) {
     return nota < 7
 })
