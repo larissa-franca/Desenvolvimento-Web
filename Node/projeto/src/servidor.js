@@ -19,6 +19,7 @@ app.post('/produtos', (req, res, next) => {
         preco: req.body.preco
     })
 })
+res.send(produto) //JSON
 
 app.listen(porta, () => {
     console.log(`Servidor está executando na porta ${porta}.`)
