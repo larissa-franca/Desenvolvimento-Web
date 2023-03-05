@@ -3,7 +3,7 @@ const porta = 3004
 const express = require('express')
 const app = express()
 
-app.get('/produtos', (req, res, next) => {
+app.post('/produtos', (req, res, next) => {
     res.send({ nome: 'Notebook', preco:123.45}) //Converte para JSON
 })
 
