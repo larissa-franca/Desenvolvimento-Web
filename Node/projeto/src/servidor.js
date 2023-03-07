@@ -34,7 +34,7 @@ app.put('/produtos/:id', (req, res, next) => {
 
 app.delete('/produtos/:id', (req, res, next) => {
     const produto = bancoDeDados.excluirProduto(req.params.id)
-    res.send(produto) //JSON
+    res.send(produto) //JSON // No endereço tem que colocar o id
 })
  
 app.listen(porta, () => {
