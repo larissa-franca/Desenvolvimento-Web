@@ -23,6 +23,6 @@ function excluirProduto(id) {
     const produto = produtos[id]
     delete produtos[id]
     return produto
-}
+} // No endereço tem que colocar o id
 
 module.exports = { salvarProduto, getProduto, getProdutos, excluirProduto }
