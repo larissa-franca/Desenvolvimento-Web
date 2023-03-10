@@ -29,7 +29,7 @@ app.put('/produtos/:id', (req, res, next) => {
         nome: req.body.nome,
         preco: req.body.preco
     })
-    res.send(produto) //JSON // No endereço tem que colocar o id
+    res.send(produto) //JSON //No endereço tem que colocar o id
 })
 
 app.delete('/produtos/:id', (req, res, next) => {
