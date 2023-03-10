@@ -15,5 +15,5 @@ regra.hour = 20
 regra.second = 30
 
 const tarefa2 = schedule.scheduleJob(regra, function () {
-    console.log('Executando Tarefa 2!', new Date().getSeconds())
+    console.log('Executando Tarefa 2!!', new Date().getSeconds())
 })
