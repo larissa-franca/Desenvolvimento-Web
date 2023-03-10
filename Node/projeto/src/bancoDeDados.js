@@ -23,6 +23,6 @@ function excluirProduto(id) {
     const produto = produtos[id]
     delete produtos[id]
     return produto
-} // No endereço no postman tem que colocar o ID
+} // No endereço no postman tem que colocar o ID.
 
 module.exports = { salvarProduto, getProduto, getProdutos, excluirProduto }
