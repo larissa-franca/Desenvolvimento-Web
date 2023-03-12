@@ -20,7 +20,7 @@ log()
 log(undefined)
 log('Sou mais forte!')
 
-//operador rest
+//operador rest - permite que uma função receba um número indefinido de parâmetros 
 
 function total(...numeros) {
     let total = 0
