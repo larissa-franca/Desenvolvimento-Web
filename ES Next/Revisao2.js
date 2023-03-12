@@ -19,3 +19,12 @@ function log(texto = 'Node') {
 log()
 log(undefined)
 log('Sou mais forte!')
+
+//operador rest
+
+function total(...numeros) {
+    let total = 0
+    numeros.forEach(n => total += 0)   
+    return total 
+}
+console.log(total(2, 3, 4, 5))
