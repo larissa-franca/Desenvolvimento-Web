@@ -4,6 +4,7 @@
 {
     var a = 2
     let b = 3
+    console.log(b)//colocando dentro do bloco eu consigo ler
 }
 console.log(a) // não tem escopo de bloco
 console.log(b)// não consegue let a variável b, por que é LET e 
