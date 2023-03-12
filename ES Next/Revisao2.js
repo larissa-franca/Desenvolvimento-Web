@@ -10,3 +10,12 @@ const lexico1 = () => console.log(this === exports)
 const lexico2 = lexico1.bind({})
 lexico1()
 lexico2()
+
+//parametro default
+// em cima de um atributo de uma função, define o valor padrão para ele
+function log(texto = 'Node') {
+    console.log(texto)
+}
+log()
+log(undefined)
+log('Sou mais forte!')
