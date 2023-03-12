@@ -5,4 +5,6 @@
     var a = 2
     let b = 3
 }
-console.log(a)
+console.log(a) // não tem escopo de bloco
+console.log(b)// não consegue let a variável b, por que é LET e 
+// tem escopo de bloco
