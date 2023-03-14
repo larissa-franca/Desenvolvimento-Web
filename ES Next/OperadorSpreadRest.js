@@ -15,7 +15,7 @@ const funcionario = { nome: 'Maria', salario: 12345.99 }
 const clone = { ativo: true, ...funcionario }//colocando os ...espalha os atributos de um objeto no outro
 console.log(clone)
 
-//usar spread com array
+//Usar spread com array
 const grupoA = ['João', 'Maria', 'Pedro']
 const grupoFinal = ['Glória', ...grupoA, 'Rafa']
 console.log(grupoFinal)
