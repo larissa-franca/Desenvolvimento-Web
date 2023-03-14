@@ -10,7 +10,7 @@ function total(...numeros) {
 }
 console.log(total(2, 3, 4, 5))
 
-//usar spread com objeto
+//Usar spread com objeto
 const funcionario = { nome: 'Maria', salario: 12345.99 }
 const clone = { ativo: true, ...funcionario }//colocando os ...espalha os atributos de um objeto no outro
 console.log(clone)
