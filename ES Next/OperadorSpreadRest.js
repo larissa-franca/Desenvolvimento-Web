@@ -1,6 +1,6 @@
 // operador ... rest(juntar)/Spread(espalhar)
 
-//usar rest com parâmetro de função
+//Usar rest com parâmetro de função
 //operador rest - permite que uma função receba um número indefinido de parâmetros 
 
 function total(...numeros) {
