@@ -2,7 +2,7 @@ for (let letra of "Cod3r") {
     console.log(letra)
 }
 
- const assuntosEcma = ['Map', 'Set', 'Promise']
+ const assuntosEcma = ['Map', 'Set', 'Promisse']
 
  for (let i in assuntosEcma) {
     console.log(i)
