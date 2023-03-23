@@ -15,3 +15,7 @@ const getTurma = (letra, callback) => {
         })
     })
 }
+let nomes = []
+getTurma('A', alunos => {
+    console.log(alunos)
+})
