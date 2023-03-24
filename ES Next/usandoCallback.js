@@ -1,4 +1,4 @@
-//Sem promisse.
+//Sem promise.
 const http = require('http')
 
 const getTurma = (letra, callback) => {
