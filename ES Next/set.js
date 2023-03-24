@@ -1,4 +1,4 @@
-//Estrutura não indexada, que não aceita repetição
+//Estrutura não indexada, que não aceita repetição.
 const time = new Set()
 time.add('Vasco')
 time.add('São Paulo').add('Palmeiras').add('Corintians')
