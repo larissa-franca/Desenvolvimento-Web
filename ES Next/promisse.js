@@ -1,4 +1,4 @@
-//Estrutura que tem por objetivo representar uma operação assíncrona, pode ser atendida ou rejeitada
+//Estrutura que tem por objetivo representar uma operação assíncrona, pode ser atendida ou rejeitada.
 
 function falarDepoisDe(segundos, frase) {
     return new Promise((resolve, reject) => {
