@@ -1,4 +1,4 @@
-//Tagged templates - processa o template dentro de uma função
+//Tagged templates - processa o template dentro de uma função.
 
 function tag(partes, ...valores) {
     console.log(partes)
