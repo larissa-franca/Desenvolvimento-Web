@@ -8,4 +8,4 @@ while (opcao != -1) {
     console.log(`Opção escolhida foi ${opcao}.`)
 }
 console.log('Até a próxima')
-//A estrutura while é uma estrutura de repetição em laço que repete até a expressão ser verdadeira
+//A estrutura while é uma estrutura de repetição em laço que repete até a expressão ser verdadeira.
