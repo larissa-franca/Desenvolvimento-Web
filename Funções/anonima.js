@@ -1,4 +1,4 @@
-//função anonima é uma função sem nome
+//Função anonima é uma função sem nome
 
 const soma = function (x, y) {
     return x + y
