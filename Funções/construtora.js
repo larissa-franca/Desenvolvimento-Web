@@ -10,7 +10,7 @@ function Carro(velocidadeMaxima = 200, delta = 5) {
             velocidadeAtual = velocidadeMaxima
         }
     }
-    // metodo publico
+    //Metodo publico
     this.getvelocidadeAtual = function () {
         return velocidadeAtual
     }
