@@ -1,5 +1,5 @@
 // Closure é o escopo criado quando uma função e declarada
-// esse escopo permite a função acesar e manipular variáveis externas à função
+// Esse escopo permite a função acesar e manipular variáveis externas à função
 
 //contexto lexico em ação
 
