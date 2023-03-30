@@ -1,7 +1,7 @@
 // Closure é o escopo criado quando uma função e declarada
 // Esse escopo permite a função acesar e manipular variáveis externas à função
 
-//contexto lexico em ação
+//Contexto lexico em ação
 
 const x = 'Global'
 
