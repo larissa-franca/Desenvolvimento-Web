@@ -1,5 +1,5 @@
 //Função auto invocada
-//tudo que criardentro da função fica dentro do escopo local
+//Tudo que criardentro da função fica dentro do escopo local
 
 (function() {
     console.log('Será executado na hora!')
