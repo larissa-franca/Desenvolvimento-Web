@@ -1,4 +1,4 @@
-// estrategia 1 para gerar valor padrão
+// Estrategia 1 para gerar valor padrão
 function soma1(a, b, c) {
     a = a || 1
     b = b || 1
