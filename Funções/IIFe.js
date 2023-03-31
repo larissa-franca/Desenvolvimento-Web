@@ -1,4 +1,4 @@
-//função auto invocada
+//Função auto invocada
 //tudo que criardentro da função fica dentro do escopo local
 
 (function() {
