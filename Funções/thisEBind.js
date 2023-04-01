@@ -6,7 +6,7 @@ const pessoa = {
 }
 pessoa.falar()
 const falar = pessoa.falar
-falar() //conflito entre paradigmas: uncional e oo
+falar() //Conflito entre paradigmas: uncional e oo
 
 const falarDePessoa = pessoa.falar.bind(pessoa)
 falarDePessoa()
