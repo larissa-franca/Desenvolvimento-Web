@@ -6,5 +6,5 @@ let p = new Promise(function(cumprirPromessa){
    //a função passada para a promise vai ser chamada quando se quiser cumprir a promessa
     
    p.then(function(valor){ //O then também recebe uma função como parâmetro
-       console.log(valor) //O valor passado para a função do then é aquele que foi cumprido pela função da promise,
+       console.log(valor) //O valor passado para a função do then é aquele que foi cumprido pela função da promise,  
    }) //Também usa o conceito de callback, pois passa uma função como parâmetro e essa função é chamda quando a promessa é cumprida
