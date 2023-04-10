@@ -9,5 +9,5 @@ let p = new Promise(function(cumprirPromessa) {
 console.log(typeof p)
 
 p.then(function(valor) {
-
+    console.log(valor)
 })
