@@ -2,7 +2,7 @@
 //     console.log('Executando callback...')
 
 //     setTimeout(function() {
-//         console.log('Executando callback...')
+//         console.log('Executando Callback...')
 
 //         setTimeout(function() {
 //             console.log('Executando callback...')
